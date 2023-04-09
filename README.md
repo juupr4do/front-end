@@ -8,5 +8,7 @@ após isso você deve rodar o seguinte comando:
 npm start
 ```
 # Onde acessar:
-após rodar o npm. a página deverá carregar automaticamente. Mas caso não funcione,na porta 3000 você consiguirá visualizar o código (por´me é um front bem simples, não tem como interagir profundamente)
+após rodar o npm, a página deverá carregar automaticamente. Mas caso não funcione, na porta 3000 você consiguirá visualizar o código (porém é um front bem simples, não tem como interagir profundamente)
 (https://localhost:3000/)
+
+Guardando aqui para futuras consultas, conforme avançar no estudo de react js e node js.
