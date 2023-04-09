@@ -8,4 +8,4 @@ npm start
 # Onde acessar:
 
 na porta 300 você consiguirá visualizar o código (por´me é um front bem simples, não tem como interagir profundamente)
-[GitHub Pages](https://pages.github.com/)
+(https://localhost:3000/)
